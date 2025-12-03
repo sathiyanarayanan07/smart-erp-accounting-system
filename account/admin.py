@@ -11,6 +11,8 @@ admin.site.register(customers)
 admin.site.register(customer_contact)
 admin.site.register(product)
 admin.site.register(salesInvoice)
+
+
 admin.site.register(InvoiceLine)
 admin.site.register(customer_payment)
 
